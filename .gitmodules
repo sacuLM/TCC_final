@@ -1,0 +1,6 @@
+[submodule "TechersCC"]
+	path = TechersCC
+	url = https://github.com/sacuLM/TechersCC.git
+[submodule "front-end_TechersCC"]
+	path = Front-end_TCC/front-end_TechersCC
+	url = https://github.com/sacuLM/front-end_TechersCC.git
